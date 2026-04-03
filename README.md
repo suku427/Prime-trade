@@ -23,7 +23,4 @@ From `C:\Users\sukum\Downloads\prime_trade_assignment`:
 python analysis.py
 ```
 
-The script expects the raw files at:
-
-- `C:\Users\sukum\Downloads\historical_data.csv`
-- `C:\Users\sukum\Downloads\fear_greed_index.csv`
+The script expects the raw files
