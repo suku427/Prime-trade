@@ -1,0 +1,38 @@
+PrimeTrade.ai Assignment Summary
+================================
+
+Rows excluded from sentiment analysis because the sentiment file had no label for 2024-10-26: 6
+
+Best regime by total net PnL after fees:
+- Fear: $3,310,156
+
+Best regime by average net PnL per realized trade:
+- Extreme Greed: $129.55
+
+Best regime by win rate:
+- Extreme Greed: 89.2%
+
+Highest average daily net PnL:
+- Extreme Fear: $51,920
+
+Broad-bucket comparison:
+- Fear-side win rate: 84.4%
+- Greed-side win rate: 82.5%
+- Fear-side avg size: $7,375
+- Greed-side avg size: $4,234
+
+Daily sentiment relationships:
+- Correlation(score, daily realized volume) = -0.287
+- Correlation(score, daily win rate) = 0.055
+- Correlation(score, active accounts) = -0.323
+
+Account concentration:
+- Top 3 accounts captured 60.9% of positive profit in Fear
+- Top 3 accounts captured 64.9% of positive profit in Extreme Greed
+
+Top coin by regime:
+- Extreme Fear: HYPE with $479,441 net after fees
+- Fear: HYPE with $834,095 net after fees
+- Neutral: SOL with $300,776 net after fees
+- Greed: @107 with $722,802 net after fees
+- Extreme Greed: @107 with $1,986,972 net after fees
